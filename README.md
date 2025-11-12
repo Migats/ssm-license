@@ -30,7 +30,7 @@ It forbids:
 
 Many independent artists want their music to be accessible but still
 maintain control over where it appears.  
-SFML gives musicians an easy template to license their tracks while:
+SSM gives musicians an easy template to license their tracks while:
 
 - keeping creative freedom
 - protecting artists from misuse
