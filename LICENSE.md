@@ -102,7 +102,7 @@ authorization.
 - When crediting the Music, including the following (wherever possible):
 
 > Music by \[Artist Name\] - \[Track Title\]  
-> Licensed under SSM v1.0 https://github.com/Migats/ssm-license
+> Licensed under SSM v1.0 - https://github.com/Migats/ssm-license
 
 - If used in a livestream or remix, the credit must be visible in the
   description or overlay.
