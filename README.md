@@ -26,7 +26,7 @@ It forbids:
 - Re-uploading for profit
 - Ignoring takedown requests
 
-## Purpose of SFML
+## Purpose of SSM
 
 Many independent artists want their music to be accessible but still
 maintain control over where it appears.  
