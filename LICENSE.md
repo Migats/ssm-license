@@ -9,7 +9,9 @@ terms.
 Any artist may apply this license to their own original works by
 including the following notice:
 
-> Licensed under SSM v1.0 - https://github.com/Migats/ssm-license
+> Licensed under the Streaming Safe Music License (SSM) v1.0
+> https://github.com/Migats/ssm-license
+
 
 ## Definitions
 
