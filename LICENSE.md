@@ -27,8 +27,11 @@ including the following notice:
 - **Ephemeral Use:** Any usage that remains publicly available for *no
   longer than 24 hours.*
 
-- **Commercial Use:** Any monetized or paid use of the Music, including
-  advertisements, broadcasts, paid streams, films, and similar contexts.
+- **Commercial Use:** Any use that directly generates commercial revenue
+  through the Music itself, such as advertisements, broadcasts, paid
+  promotions, film scores, or retail distribution.
+
+  - Monetized livestreams or online videos (e.g., Twitch Affiliate, YouTube Partner) that use the Music as background or accompaniment are not considered Commercial Use under this License.
 
 - **Authorized User:** A person or organization who has received express
   written permission from the Artist for extended or special use.
