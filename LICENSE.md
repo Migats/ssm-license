@@ -10,7 +10,7 @@ Any artist may apply this license to their own original works by
 including the following notice:
 
 > Licensed under the Streaming Safe Music License (SSM) v1.0  
-> (link)
+> https://github.com/Migats/ssm-license?tab=License-1-ov-file
 
 ## Definitions
 
@@ -102,7 +102,7 @@ authorization.
 - When crediting the Music, including the following (wherever possible):
 
 > Music by \[Artist Name\] - \[Track Title\]  
-> Licensed under SSM v1.0 (link)
+> Licensed under SSM v1.0 https://github.com/Migats/ssm-license?tab=License-1-ov-file
 
 - If used in a livestream or remix, the credit must be visible in the
   description or overlay.
