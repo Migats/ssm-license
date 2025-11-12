@@ -43,7 +43,8 @@ If you are an artist and want to release your music under this license:
 
 1.  Add the following line to your video/track description:
 
-> Licensed under SSM v1.0 - https://github.com/Migats/ssm-license
+> Licensed under the Streaming Safe Music License (SSM) v1.0  
+> <https://github.com/Migats/ssm-license>
 
 2.  Include the full license text with your digital releases when
     possible (e.g., Bandcamp, downloadable ZIP files, track metadata).
