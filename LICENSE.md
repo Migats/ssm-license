@@ -186,3 +186,9 @@ The Artist is not responsible for misuse or damages caused by
 unauthorized or inappropriate use of the Music.
 
 All rights not explicitly granted herein are reserved by the Artist.
+
+---
+**Document version:** 1.0  
+**Release date:** November 2025  
+**Authoritative URL:** <https://github.com/Migats/ssm-license>
+
